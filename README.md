@@ -1,2 +1,2 @@
 #Anime Quote 
-https://github.com/AdefelaFakorode/AnimeQuoteGen/assets/102834064/74dc1158-e18e-4e72-95d1-2fc2ef847e68
+![ezgif-2-29d41bc056](https://github.com/AdefelaFakorode/AnimeQuoteGen/assets/102834064/41c25d5d-f213-47c5-9610-ee8519ee1eba)
