@@ -4,6 +4,7 @@ function App() {
   return (
     <div>
       <Quote />
+      <button>Generate new quote</button>
     </div>
   )
 }
