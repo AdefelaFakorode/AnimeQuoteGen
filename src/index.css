@@ -1,8 +1,8 @@
 :root {
-  --primary: #A84FFF;
-  --secondary: #D81E5B;
-  --dark: #131A26;
-  --light: #EEEEEE;
+  --primary: #8838d8;
+  --secondary: #c164dd;
+  --dark: #5a1069;
+  --light: #ffffff;
   --grey: #888888;
 
   --font: 'Fira Sans', sans-serif;
@@ -17,7 +17,7 @@
 }
 
 body{
-  background-color: var(--light);
+  background-color: #1d0422;;
   display: flex;
   align-items: center;
   justify-content: center;
